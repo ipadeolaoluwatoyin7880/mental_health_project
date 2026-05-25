@@ -136,7 +136,7 @@ mental_health_project/
 
 **Option A - Clone with Git:**
 
-git clone https://github.com/yourusername/mental_health_project.git
+git clone https://github.com/ipadeolaoluwatoyin7880/mental_health_project.git
 cd mental_health_project
 
 **Option B - Download ZIP:** 
